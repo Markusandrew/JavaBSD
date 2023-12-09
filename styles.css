@@ -1,0 +1,23 @@
+html{
+box-sizing: border-box;
+}
+body{
+  font-family: 'Times New Roman', Times, serif;
+  max-width: 80%;
+  position: relative;
+  margin:auto auto;
+}
+header{
+  text-align: center;
+  background-color: rgb(206, 219, 247);
+  color: darkslategray;
+  border-radius: 3in;
+  margin-bottom: 0;
+}
+main{
+  text-align: center;
+  background-color: darkslategray;
+  color: rgb(206, 219, 247);
+  margin-top: 0;
+  border-radius: 5in;
+}
